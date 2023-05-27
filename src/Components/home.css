@@ -1,0 +1,47 @@
+.slidering{
+    object-fit:cover;
+    width: 100%;
+    top: 0;
+    left: 0;
+    height: 500px;
+}
+.dis1{
+    text-align: center;
+    font-size: large;
+    padding-left: 100px;
+    padding-top: 10px;
+    padding-right: 100px;
+}
+.dis1 h3{
+    font-size: xx-large;
+    padding-bottom: 30px;
+}
+.dis2{
+    text-align: center;
+    font-size: large;
+    padding-left: 100px;
+    padding-top: 50px;
+    padding-right: 100px;
+}
+.dis2 h3{
+    font-size: x-large;
+}
+.dis3{
+    font-size: large;
+    padding-left: 100px;
+    padding-top: 50px;
+    padding-right: 100px;
+}
+.dis3 h3{
+    text-align: center;
+    font-size: x-large;
+}
+.dis3 h4{
+    font-size: larger;
+    text-decoration: underline;
+}
+.dis3 h5{
+    padding-top: 15px;
+    padding-bottom: 40px;
+
+}

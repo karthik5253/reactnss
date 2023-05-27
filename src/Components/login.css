@@ -1,0 +1,69 @@
+.Login-bg{
+    background-image: url(../Images/bruno-abatti.jpg);
+    background-size: cover;
+    height: 645px;
+    margin-top: 0px;
+    display: flex;
+    align-items: center;
+  }
+
+.Login-Page {
+    width: 300px;
+    height: 300px;
+    margin: 0px auto;
+    padding: 10px;
+    background-color: #000;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+ 
+ .Login-h2 {
+    color: red;
+    text-align: center;
+    font-size: large;
+    padding-bottom: 30px;
+  }
+  .Login-form {
+    margin-bottom: 15px;
+    font-size: 15px;
+  }
+  .Login-form label {
+    color: darksalmon;
+    display: block;
+    font-weight: bold;
+    padding-bottom: 5px;
+  }
+  .Login-form input[type="text"],
+  .Login-form input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  .Login-form button {
+    margin-top: 10px;
+    margin-left: 70px;
+    width: 50%;
+    padding: 10px;
+    background-color: lightsalmon;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 3px;
+  }
+  .Login-forget{
+    color: #fff;
+    text-align: center;
+    font-size: small;
+  }
+  .Login-forget a{
+    color: #fff;
+  }
+  .Login-create {
+    color: #fff;
+    text-align: center;
+    font-size: medium;
+  }
+.Login-create a{
+    color: #fff;
+  }

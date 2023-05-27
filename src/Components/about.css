@@ -1,0 +1,26 @@
+.aboutbg{
+    background-image:url("../Images/Motto.jpg");
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center ;
+}
+.about-content{
+   font-size: larger;
+   text-align: center;
+   padding-top: 200px;
+   color:red;
+}
+.about-container{
+    padding-top: 50px;
+    padding-left: 150px;
+    font-size: large;
+    margin-bottom: 50px;
+    padding-right: 100px;
+}
+.about-container h3{
+    padding-bottom: 10px;
+}
+.about-container p{
+    padding-bottom: 5px;
+}

@@ -1,0 +1,73 @@
+.enroll-img{
+    width: 100%;
+    height:150px;
+    padding-left:300px ;
+    background-color: gray;
+}
+.en{
+    text-align: center;
+    font-size: x-large;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    padding-left: 50px;
+}
+.enroll h2{
+    text-align: center;
+    font-size: xx-large; 
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+.enroll{
+    text-align: center;
+}
+.enroll-form{
+    background-color: #E6E6FA;
+    font-size: small; 
+    border: 1px solid #000;
+    border-radius: 5px;
+    width: 800px;
+    margin-top: 10px;
+    margin-left: 400px;
+    margin-bottom: 50px;
+    padding: 10px;
+}
+.enroll-form input{
+    height: 30px;
+}
+.enroll-form select{
+    height: 30px;
+    width: 150px;
+}
+
+.enroll-od h1{
+    padding-top: 50px;
+    text-align: center;
+    font-size: xx-large; 
+    text-decoration: underline;
+}
+.enroll-od h4{
+    font-size: large; 
+}
+.enroll-od h5{
+    font-size: 15px; 
+    padding-top: 20px;
+}
+.enroll-od select{
+    height: 30px;
+    width: 300px;
+    margin-top: 10px;
+    margin-left: 30px;
+    
+}
+.enroll-but{
+    margin-top: 10px;
+    margin-left: 250px;
+    font-size: 18px;
+    width: 30%;
+    padding: 5px;
+    background-color: lightsalmon;
+    border: none;
+    color: #000;
+    cursor: pointer;
+    border-radius: 3px;
+}

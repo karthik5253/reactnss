@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Work+Sans:ital,wght@0,400;0,500;1,300&display=swap');
+
+.services{
+  background: rgb(223, 223, 223);
+  padding: 2rem 1rem;
+  height: 645px;
+}
+.services .title{
+  text-align: center;
+}
+.title h1{
+  font-size: 3rem;
+  text-transform: capitalize;
+  text-decoration: underline;
+}
+.title span{
+  color: rgb(228, 151, 8);
+}
+.title{
+  font-size: 1rem;
+  color: gray;
+}
+.services_boxes{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 1rem;
+}
+.box{
+  width: 320px;
+  height: 500px;
+  background: #fff;
+  padding: 2rem;
+  margin: 1rem 2rem;
+  text-align: center;
+  border-radius: 10px;
+  border: 2px solid transparent;
+  box-shadow: 1px 30px 20px rgba(0, 0, 0, 0.1);
+}
+
+.box p{
+  color: gray;
+  margin-top: 10px;
+  font-size: small;
+}
+.box:hover{
+  border: 2px solid rgb(228, 151, 8);
+}
+.box h3{
+  font-size: large;
+  margin-top: 10px;
+}
+.event-button button{
+  font-size: 15px;
+  margin-top: 100px;
+  width: 50%;
+  padding: 10px;
+  background-color: lightsalmon;
+  border: none;
+  color: #000;
+  cursor: pointer;
+  border-radius: 3px;
+}

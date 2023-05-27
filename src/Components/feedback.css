@@ -1,0 +1,39 @@
+.feedback-title{
+    text-align: center;
+    font-size: large;
+    padding-left: 100px;
+    padding-top: 10px;
+    padding-right: 100px;
+}
+.title1{
+    padding-top:50px ;
+    font-size: xx-large;
+    text-align: center;
+}
+.sm-logo{
+    text-align: center;  
+    margin-top: 50px; 
+}
+.sm-b{
+    margin-left: 150px;
+}
+.feedback-contact{
+    text-align: center; 
+}
+.feedback-form{
+    margin: 10px;
+    width: 20%;
+    height: 50px;
+    padding-left: 10px;
+}
+.feedback-button {
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 10%;
+    padding: 10px;
+    background-color: skyblue;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 3px;
+  }
